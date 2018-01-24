@@ -1,0 +1,25 @@
+body {
+  background-color: teal;
+  color: maroon;
+  font-family: helvetica;
+}
+h1 {
+  text-align: center;
+  border: 3px dotted maroon;
+  padding: 20px;
+}
+table {
+  border: 3px dotted maroon;
+  padding: 20px;
+}
+img {
+  height:200px;
+  width:600px;
+}
+th {
+  font-style: italic;
+}
+li {
+  font-weight: bold;
+  font-style: italic;
+}
